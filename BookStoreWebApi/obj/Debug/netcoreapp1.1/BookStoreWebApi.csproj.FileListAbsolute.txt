@@ -1,0 +1,9 @@
+c:\users\dhand\onedrive\documents\visual studio 2017\Projects\BookStoreWebApi\BookStoreWebApi\bin\Debug\netcoreapp1.1\BookStoreWebApi.deps.json
+c:\users\dhand\onedrive\documents\visual studio 2017\Projects\BookStoreWebApi\BookStoreWebApi\bin\Debug\netcoreapp1.1\BookStoreWebApi.runtimeconfig.json
+c:\users\dhand\onedrive\documents\visual studio 2017\Projects\BookStoreWebApi\BookStoreWebApi\bin\Debug\netcoreapp1.1\BookStoreWebApi.runtimeconfig.dev.json
+c:\users\dhand\onedrive\documents\visual studio 2017\Projects\BookStoreWebApi\BookStoreWebApi\bin\Debug\netcoreapp1.1\BookStoreWebApi.dll
+c:\users\dhand\onedrive\documents\visual studio 2017\Projects\BookStoreWebApi\BookStoreWebApi\obj\Debug\netcoreapp1.1\BookStoreWebApi.csprojResolveAssemblyReference.cache
+c:\users\dhand\onedrive\documents\visual studio 2017\Projects\BookStoreWebApi\BookStoreWebApi\obj\Debug\netcoreapp1.1\BookStoreWebApi.AssemblyInfo.cs
+C:\Users\dhand\onedrive\documents\visual studio 2017\Projects\BookStoreWebApi\BookStoreWebApi\bin\Debug\netcoreapp1.1\BookStoreWebApi.pdb
+C:\Users\dhand\onedrive\documents\visual studio 2017\Projects\BookStoreWebApi\BookStoreWebApi\obj\Debug\netcoreapp1.1\BookStoreWebApi.dll
+C:\Users\dhand\onedrive\documents\visual studio 2017\Projects\BookStoreWebApi\BookStoreWebApi\obj\Debug\netcoreapp1.1\BookStoreWebApi.pdb
